@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">" Exchange"</string>
+    <string name="hello_world">Hello to visitors!</string>
+    <string name="action_settings">Settings</string>
+	<string name="calculate">Calculate</string>
+	<string name="etxt_hint">Input your money</string> 
+	<string name="edit_hint">Gram of precious metal </string>
+	
+</resources>
